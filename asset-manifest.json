@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/card-game-task/static/css/main.9cd28093.chunk.css",
-    "main.js": "/card-game-task/static/js/main.fa5a1bc8.chunk.js",
-    "main.js.map": "/card-game-task/static/js/main.fa5a1bc8.chunk.js.map",
+    "main.js": "/card-game-task/static/js/main.0c104c58.chunk.js",
+    "main.js.map": "/card-game-task/static/js/main.0c104c58.chunk.js.map",
     "runtime-main.js": "/card-game-task/static/js/runtime-main.12f88c93.js",
     "runtime-main.js.map": "/card-game-task/static/js/runtime-main.12f88c93.js.map",
     "static/js/2.17d0f16f.chunk.js": "/card-game-task/static/js/2.17d0f16f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12f88c93.js",
     "static/js/2.17d0f16f.chunk.js",
     "static/css/main.9cd28093.chunk.css",
-    "static/js/main.fa5a1bc8.chunk.js"
+    "static/js/main.0c104c58.chunk.js"
   ]
 }
