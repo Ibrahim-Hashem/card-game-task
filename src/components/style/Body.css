@@ -1,0 +1,53 @@
+.body__main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: auto;
+    align-items: center;
+}
+.body__cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+
+}
+.Body__counts{
+    padding-top: 100px;
+}
+.body__alert{
+    height:100px;
+}
+.body__card{
+    width: 200px;
+    height:auto;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.body__btn__main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: auto;
+    align-items: center;
+    height: auto;
+}
+.body__btn{
+    border:none;
+    padding:10px;
+    width:200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #008CFF;
+    font-size:30px;
+    color: white;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.Body__counts{
+    text-align: center;
+}
