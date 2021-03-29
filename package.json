@@ -2,7 +2,7 @@
   "name": "card-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ibrahim-Hashem.github.io/card-task-game",
+  "homepage": "http://ibrahim-hashem.github.io/card-game-task/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/user-event": "^12.8.3",

@@ -26,9 +26,9 @@ function Body() {
     },[]);
 
     function getCard(){
-        setPrevC(newC)
         axios.get(`https://deckofcardsapi.com/api/deck/${deck}/draw/?count=1
         `).then(res=>{
+            setPrevC(newC)
             setNewC({
                 image: res.data.cards[0].images.png,
                 suit: res.data.cards[0].suit,
@@ -54,6 +54,7 @@ function Body() {
     function Button(){
         if(newC.remaining !== 0){
             return(
+                
                 <div className="body__btn__main">
                     <button  onClick = {getCard} className="body__btn">Draw card</button>
                 </div>
@@ -67,7 +68,6 @@ function Body() {
             )
         }
     }
-
     
     return (
         <div>
